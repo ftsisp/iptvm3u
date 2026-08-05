@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://img.magnific.com/free-vector/live-webcast-broadcasting-symbol-online-events_1017-62406.jpg" group-title="Sports",Live
 http://10.100.200.200/hls/fifa.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/1/t-sports-logo-png_seeklogo-640172.png" group-title="Sports",T Sports
-http://100.100.100.94:4518/live-3/tracks-v1a1/mono.m3u8
+http://100.100.100.94:4518/T-Sports-HD/tracks-v1a1/mono.m3u8
 
 # Source: SRC-ID:8a0a955eed047000f93213bc
 #EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="Bangla",BTV
