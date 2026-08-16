@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Sports" tvg-logo="https://img.magnific.com/free-vector/live-webcast-broadcasting-symbol-online-events_1017-62406.jpg",Live
-http://10.100.200.200/hls/fifa.m3u8
+https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://images.seeklogo.com/logo-png/64/1/t-sports-logo-png_seeklogo-640172.png",T-Sports
 http://100.100.100.94:4518/T-Sports-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/23/2/r-tv-logo-png_seeklogo-237300.png",RTV (720p)
